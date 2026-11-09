@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Carrom Aim Simulator</string>
+    <string name="reset">Reset Board</string>
+    <string name="add_coin">Add Coin</string>
+    <string name="chain_shots">Chain (Combo) Shots</string>
+    <string name="pocket_aim_detected">Pocket Aim: IN LINE</string>
+    <string name="pocket_aim_miss">Pocket Aim: OFF</string>
+</resources>
